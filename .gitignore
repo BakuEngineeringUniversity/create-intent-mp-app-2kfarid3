@@ -2,7 +2,7 @@ HELP.md
 .idea
 .gitattributes
 .mvn
-mvnw.cmd
+mvnw.cmd/
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
